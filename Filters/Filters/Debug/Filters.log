@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\nikolay\onedrive\документы\visual studio 2015\projects\filters\filters\main.cpp(143): warning C4552: -: оператор не имеет результата; требуется оператор с побочным действием
+c:\users\nikolay\onedrive\документы\visual studio 2015\projects\filters\filters\main.cpp(245): warning C4552: -: оператор не имеет результата; требуется оператор с побочным действием
+c:\users\nikolay\onedrive\документы\visual studio 2015\projects\filters\filters\main.cpp(356): warning C4552: -: оператор не имеет результата; требуется оператор с побочным действием
+  Filters.vcxproj -> C:\Users\Nikolay\OneDrive\Документы\Visual Studio 2015\Projects\Filters\Debug\Filters.exe
